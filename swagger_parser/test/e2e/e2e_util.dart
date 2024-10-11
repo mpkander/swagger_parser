@@ -101,5 +101,5 @@ Future<void> e2eTest(
   );
 
   // Deleting the generated files
-  Directory(generatedFolderPath).deleteSync(recursive: true);
+  //Directory(generatedFolderPath).deleteSync(recursive: true);
 }
